@@ -1,4 +1,4 @@
-# Git
+# Reminder for git commands
 
 ## Git Komutları ve Kullanımı
 
